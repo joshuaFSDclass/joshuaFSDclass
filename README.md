@@ -1,5 +1,5 @@
 <h1 align="center">waaahsssuuuup joshua lewin</h1>
-<h3 align="center">im a front end developer form Jamaica</h3>
+<h3 align="center">im a fullstack developer form Jamaica</h3>
 
 - 📫 How to reach me **lewinjoshua9@gmail.com**
 
